@@ -1,0 +1,23 @@
+.tabela_centralizada {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-image: url("images/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.espaco {
+    height: 20px;
+}
+
+.botao_transparente {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;        
+}
